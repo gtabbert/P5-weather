@@ -1,0 +1,60 @@
+html {
+	width: 80%;
+	margin: 0 auto;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 1em;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.status {
+	color: lightblue;
+}
+
+.temp {
+	color: orange;
+}
+
+.wind {
+	color: lightgreen;
+}
+
+.humidity {
+	color: teal;
+}
+
+.pressure {
+	color: cyan;
+}
+
+.visibility {
+	color: pink;
+}
+
+.sunlight {
+	color: yellow;
+}
+
+.tomorrow {
+	color: grey;
+}
+
+.twodays {
+	color: darkgrey;
+}
